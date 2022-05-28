@@ -1,6 +1,3 @@
-## Hi there 👋
-
-### I'm Pranav Patel! 
-
+## Hi world 👋
 
 ![](new_intro_pranav.gif)
